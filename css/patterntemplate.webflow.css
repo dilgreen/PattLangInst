@@ -1,0 +1,668 @@
+.patterncontentcentred {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-family: Lato, sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.patternimage {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image {
+  position: static;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: auto;
+  padding-top: 10px;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+}
+
+.paragraph {
+  position: static;
+  left: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-right: 20px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: right;
+}
+
+.paragraph-2 {
+  padding-left: 20px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.bodytext {
+  padding-top: 0px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.body {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.paragraph-4 {
+  padding-top: 40px;
+  padding-left: 3%;
+  font-family: 'Kalocsai flowers', sans-serif;
+  font-size: 28px;
+  line-height: 50px;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 15px;
+}
+
+.bodytextbold {
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 700;
+}
+
+.div-block {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: block;
+  width: 720px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-size: 28px;
+}
+
+.sectionflexhorizcntrd {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  font-family: Lato, sans-serif;
+  font-size: 30px;
+  line-height: 32px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.paragraph-5 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-weight: 700;
+  text-align: center;
+}
+
+.sectionleftjust {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.div-block-image {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 720px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+}
+
+.sectionimage {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div-block-flexhoriz {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 720px;
+  margin-top: 40px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  font-size: 28px;
+}
+
+.paragraph-pl {
+  padding-top: 40px;
+  padding-left: 0px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.paragraph-5-qol {
+  position: static;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.bodytext-in {
+  padding-top: 10px;
+  padding-right: 60px;
+  padding-left: 80px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.paragraph-5-flow {
+  position: static;
+  padding-top: 32px;
+  padding-left: 40px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.paragraph-footer {
+  padding-top: 14px;
+  padding-left: 0px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-block-flexvert {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 720px;
+  margin-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  font-size: 28px;
+}
+
+.sectionflexvertcntrd {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  font-family: Lato, sans-serif;
+  font-size: 30px;
+  line-height: 32px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.bodytextpatt {
+  padding-top: 0px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+@media (max-width: 991px) {
+  .image {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+  .paragraph-2 {
+    font-size: 12px;
+    font-style: italic;
+  }
+  .bodytext {
+    padding-top: 0px;
+  }
+  .paragraph-4 {
+    padding-top: 25px;
+    padding-left: 3%;
+  }
+  .bodytextbold {
+    padding-top: 22px;
+  }
+  .div-block {
+    width: 100%;
+  }
+  .sectionleftjust {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .div-block-image {
+    position: static;
+    width: 90%;
+  }
+  .div-block-flexhoriz {
+    width: 90%;
+    margin-top: 30px;
+  }
+  .paragraph-pl {
+    text-align: center;
+  }
+  .paragraph-5-flow {
+    padding-top: 18px;
+    padding-left: 40px;
+    font-family: Lato, sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 700;
+    text-align: left;
+  }
+  .paragraph-footer {
+    text-align: center;
+  }
+  .div-block-flexvert {
+    width: 90%;
+    margin-top: 30px;
+  }
+  .bodytextpatt {
+    padding-top: 38px;
+  }
+}
+
+@media (max-width: 767px) {
+  .image {
+    width: auto;
+    max-width: none;
+    padding-top: 0px;
+  }
+  .bodytext {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .paragraph-4 {
+    padding-left: 3%;
+    font-size: 24px;
+    line-height: 40px;
+  }
+  .bodytextbold {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 15px;
+  }
+  .div-block {
+    width: 100%;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .div-block-image {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .div-block-flexhoriz {
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .paragraph-pl {
+    text-align: center;
+  }
+  .bodytext-in {
+    padding-right: 10px;
+    padding-left: 20px;
+  }
+  .paragraph-5-flow {
+    padding-left: 10px;
+  }
+  .paragraph-footer {
+    text-align: center;
+  }
+  .div-block-flexvert {
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .bodytextpatt {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 479px) {
+  .image {
+    position: static;
+    overflow: visible;
+    width: auto;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+  .paragraph-2 {
+    margin-bottom: 0px;
+  }
+  .bodytext {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .paragraph-4 {
+    padding-top: 10px;
+    font-size: 24px;
+    text-align: center;
+  }
+  .bodytextbold {
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .div-block {
+    width: 100%;
+    font-size: 60%;
+    line-height: 28px;
+  }
+  .paragraph-5 {
+    margin-bottom: 0px;
+  }
+  .div-block-image {
+    width: auto;
+    font-size: 60%;
+    line-height: 28px;
+  }
+  .div-block-flexhoriz {
+    width: auto;
+    max-width: 100%;
+    -webkit-box-align: baseline;
+    -webkit-align-items: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+    font-size: 60%;
+    line-height: 28px;
+  }
+  .paragraph-pl {
+    padding-top: 20px;
+    text-align: center;
+  }
+  .paragraph-5-qol {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  .bodytext-in {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .paragraph-5-flow {
+    padding-left: 0px;
+  }
+  .paragraph-footer {
+    padding-top: 20px;
+    text-align: center;
+  }
+  .div-block-flexvert {
+    width: auto;
+    max-width: 100%;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+    font-size: 60%;
+    line-height: 28px;
+  }
+  .bodytextpatt {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+
+@font-face {
+  font-family: 'Kalocsai flowers';
+  src: url('../fonts/Kalocsai_Flowers.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-ExtraBold.ttf') format('truetype'), url('../fonts/Lato-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-ExtraBoldItalic.ttf') format('truetype'), url('../fonts/Lato-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
