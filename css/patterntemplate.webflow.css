@@ -69,6 +69,16 @@
   line-height: 22px;
 }
 
+.bodytextctr {
+  padding-top: 0px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+}
+
 .body {
   padding-right: 40px;
   padding-left: 40px;
