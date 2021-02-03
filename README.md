@@ -19,3 +19,5 @@ Clearly, none of these modes will do if we are rapidly to improve our capacity t
 The Pattern Language approach offers a powerful approach to this problem, one which has not been well examined or understood, despite there being several domains in which the Pattern Language has become influential, and within which excellent work has been done.
 
 This site is a beginning of an attempt to address this reality, to address pattern language as a general approach, to encourage and explore the development of tools which could promntoe and popularise the approach.
+
+contact: dil <at> dilgreen dot net
