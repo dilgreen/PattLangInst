@@ -97,7 +97,7 @@
 }
 
 .bodytextbold {
-  padding-top: 22px;
+  padding-top: 8px;
   padding-right: 40px;
   padding-left: 40px;
   font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
@@ -375,7 +375,7 @@
     padding-left: 3%;
   }
   .bodytextbold {
-    padding-top: 22px;
+    padding-top: 8px;
   }
   .div-block {
     width: 100%;
