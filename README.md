@@ -20,4 +20,6 @@ The Pattern Language approach offers a powerful approach to this problem, one wh
 
 This site is a beginning of an attempt to address this reality, to address pattern language as a general approach, to encourage and explore the development of tools which could promntoe and popularise the approach.
 
+The sketch pattern '[Pattern Languages](https://www.patternlanguage.institute/pattern_languages)' on this site has more detail.
+
 contact: dil <at> dilgreen dot net
